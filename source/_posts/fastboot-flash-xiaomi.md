@@ -1,7 +1,7 @@
 ---
 title: Ubuntu下使用fastboot刷小米手机
 date: 2017-05-21 16:11:43
-tags:fastboot
+tags: fastboot
 category: Coding
 ---
 # Ubuntu下使用fastboot刷小米手机  
